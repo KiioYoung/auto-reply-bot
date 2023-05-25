@@ -1,0 +1,21 @@
+spring:
+  # 支持 swagger3
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+server:
+  port: 8888
+task:
+  # 并发
+  concurrent:
+    # 默认关闭并发（串行）
+    enable: false
+    # 并发大小（不填则等同于任务书，即全并发）
+    size: 1
+  # 任务列表，支持配置多个
+  list:
+    - name: task1 # 任务名
+      monitor: default # 监控者
+      answerer: default # 回答者
+      cron: '0/30 * * * * ?' # 执行周期
+

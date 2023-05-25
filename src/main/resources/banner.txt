@@ -1,0 +1,18 @@
+     QQQQQQQQQ      YYYYYYY       YYYYYYY     OOOOOOOOO     UUUUUUUU     UUUUUUUUNNNNNNNN        NNNNNNNN        GGGGGGGGGGGGG
+   QQ:::::::::QQ    Y:::::Y       Y:::::Y   OO:::::::::OO   U::::::U     U::::::UN:::::::N       N::::::N     GGG::::::::::::G
+ QQ:::::::::::::QQ  Y:::::Y       Y:::::Y OO:::::::::::::OO U::::::U     U::::::UN::::::::N      N::::::N   GG:::::::::::::::G
+Q:::::::QQQ:::::::Q Y::::::Y     Y::::::YO:::::::OOO:::::::OUU:::::U     U:::::UUN:::::::::N     N::::::N  G:::::GGGGGGGG::::G
+Q::::::O   Q::::::Q YYY:::::Y   Y:::::YYYO::::::O   O::::::O U:::::U     U:::::U N::::::::::N    N::::::N G:::::G       GGGGGG
+Q:::::O     Q:::::Q    Y:::::Y Y:::::Y   O:::::O     O:::::O U:::::D     D:::::U N:::::::::::N   N::::::NG:::::G
+Q:::::O     Q:::::Q     Y:::::Y:::::Y    O:::::O     O:::::O U:::::D     D:::::U N:::::::N::::N  N::::::NG:::::G
+Q:::::O     Q:::::Q      Y:::::::::Y     O:::::O     O:::::O U:::::D     D:::::U N::::::N N::::N N::::::NG:::::G    GGGGGGGGGG
+Q:::::O     Q:::::Q       Y:::::::Y      O:::::O     O:::::O U:::::D     D:::::U N::::::N  N::::N:::::::NG:::::G    G::::::::G
+Q:::::O     Q:::::Q        Y:::::Y       O:::::O     O:::::O U:::::D     D:::::U N::::::N   N:::::::::::NG:::::G    GGGGG::::G
+Q:::::O  QQQQ:::::Q        Y:::::Y       O:::::O     O:::::O U:::::D     D:::::U N::::::N    N::::::::::NG:::::G        G::::G
+Q::::::O Q::::::::Q        Y:::::Y       O::::::O   O::::::O U::::::U   U::::::U N::::::N     N:::::::::N G:::::G       G::::G
+Q:::::::QQ::::::::Q        Y:::::Y       O:::::::OOO:::::::O U:::::::UUU:::::::U N::::::N      N::::::::N  G:::::GGGGGGGG::::G
+ QQ::::::::::::::Q      YYYY:::::YYYY     OO:::::::::::::OO   UU:::::::::::::UU  N::::::N       N:::::::N   GG:::::::::::::::G
+   QQ:::::::::::Q       Y:::::::::::Y       OO:::::::::OO       UU:::::::::UU    N::::::N        N::::::N     GGG::::::GGG:::G
+     QQQQQQQQ::::QQ     YYYYYYYYYYYYY         OOOOOOOOO           UUUUUUUUU      NNNNNNNN         NNNNNNN        GGGGGG   GGGG
+             Q:::::Q
+              QQQQQQ
